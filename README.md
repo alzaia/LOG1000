@@ -1,3 +1,3 @@
-# LOG1000
+# Design patterns examples
 
-Observer.cpp code to simulate the observer design pattern.
+* Observer.cpp code to simulate the observer design pattern.
